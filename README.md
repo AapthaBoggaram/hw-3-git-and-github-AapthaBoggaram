@@ -22,3 +22,5 @@ commit 8 -> commit 7 (bug-fix-experimental) <br>
 
 commit 9 -> commit 8 (bug-fix-experimental) <br>
 >>>>>>> bug-fix-experimental
+
+commit 12 -> merged commit 11 (bug-fix) <br> 
