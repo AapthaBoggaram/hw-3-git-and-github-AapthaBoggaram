@@ -7,6 +7,7 @@ commit 3 -> commit 0 (bug-fix) <br>
 
 commit 4 -> commit 3 (bug-fix) <br>
 
+<<<<<<< HEAD
 =======
 commit 1 -> commit 0 (master) <br>
 
@@ -14,3 +15,10 @@ commit 2 -> commit 1 (master) <br>
 >>>>>>> master
 
 commit 6 -> merged commit 5 (bug-fix) <br>
+=======
+commit 7 -> commit 4 (bug-fix-experimental) <br>
+
+commit 8 -> commit 7 (bug-fix-experimental) <br>
+
+commit 9 -> commit 8 (bug-fix-experimental) <br>
+>>>>>>> bug-fix-experimental
