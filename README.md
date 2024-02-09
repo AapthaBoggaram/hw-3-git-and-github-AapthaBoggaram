@@ -6,8 +6,11 @@ Done by: Aaptha Boggaram <br>
 commit 3 -> commit 0 (bug-fix) <br>
 
 commit 4 -> commit 3 (bug-fix) <br>
+
 =======
 commit 1 -> commit 0 (master) <br>
 
 commit 2 -> commit 1 (master) <br>
 >>>>>>> master
+
+commit 6 -> merged commit 5 (bug-fix) <br>
